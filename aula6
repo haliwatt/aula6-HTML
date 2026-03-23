@@ -6,29 +6,52 @@
         <h2>Times de Futebol
 
 <body>
-    <table border="2">
+    <table border="3" cellpadding="10"-cellspacing="0">
            <thead>
               <tr>
-                  <th> Brasil </th>
+                  <th colsplan="4"> Brasil </th>
               </tr>
+           <thead>
+           <tbody>
               <tr>
-                  <td>Estado</td>
-                  <td>Time</td>
+                 <ul type="circle">
+                    <td>Estado</td>
+                    <td>Time</td>
               </tr>
+           <thead>
+           <tbody>
               <tr>
-                  <td>São Paulo</td>
-                  <td>Corinthians</td>
+                 <ul type="circle">
+                    <td>São Paulo</td>
+                    <td>Corinthians</td>
               </tr>
+           <thead>
+           <tbody>
               <tr>
-                  <td>São Paulo</td>
-                  <td>Palmeiras</td>
+                 <ul type="circle">
+                    <td>São Paulo</td>
+                    <td>Palmeiras</td>
               </tr>
+           <thead>
+           <tbody>
               <tr>
-                  <td>São Paulo</td>
-                  <td>São Paulo</td>
+                 <ul type="circle">
+                    <td>São Paulo</td>
+                    <td>São Paulo</td>
               </tr>
+           <thead>
+           <tbody>
               <tr>
-                  <td>São Paulo</td>
-                  <td>Santos</td>
+                 <ul type="circle">
+                    <td>São Paulo</td>
+                    <td>Santos</td>
               </tr>
-            <table>
+           <thead>
+           <tbody>
+              <tr>
+                  <td>Rio de Janeiro<td>
+                  </td>Botafogo</td>
+              </tr>
+           <thead>
+           <tbody>
+
